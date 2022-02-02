@@ -5,7 +5,7 @@
 I love to learn new technologies. Using the tools & languages I have learned, I aim to solve business problems when creating new projects.
 
 ## 🔭 I'm currently working on
-- Plugin E-Commerce <a href="https://www.jtm-network.com" target="_blank">Website</a> - <a href="https://github.com/JTM-Network/minecraft-service" target="_blank">Github Project</a>
+- Plugin E-Commerce [Website](https://www.jtm-network.com) - [Github Project](https://github.com/JTM-Network/minecraft-service)
 
 
 ## 🌱 I'm currently learning
