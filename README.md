@@ -4,13 +4,13 @@
 
 I love to learn new technologies. Using the tools & languages I have learned, I aim to solve business problems when creating new projects.
 
-## I'm currently working on
+## 🔭 I'm currently working on
 - Plugin E-Commerce [Website](https://www.jtm-network.com) [Project](https://github.com/JTM-Network/minecraft-service)
 
-## I'm currently learning
+## 🌱 I'm currently learning
 - React
 
-## Technical Skills
+## 💼 Technical Skills
 ###### Languages & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -41,7 +41,7 @@ I love to learn new technologies. Using the tools & languages I have learned, I 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## Github Stats
+## 📈 Github Stats
 [![Joe's GitHub stats](https://github-readme-stats-two-blond-69.vercel.app/api?username=joetamatthews&count_private=true&theme=great-gatsby)](https://github.com/joetamatthews/github-readme-stats)
 [![Top Langs](https://github-readme-stats-two-blond-69.vercel.app/api/top-langs/?username=joetamatthews&layout=compact&count_private=true&theme=great-gatsby&langs_count=8)](https://github.com/joetamatthews/github-readme-stats)
 
