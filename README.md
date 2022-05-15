@@ -1,6 +1,6 @@
 ### Hey, I'm Joe 👋
 
-# I'm a Full Stack Developer
+# I'm a Full Stack Java Developer
 
 I love to learn new technologies. Using the tools & languages I have learned, I aim to solve business problems when creating new projects.
 
