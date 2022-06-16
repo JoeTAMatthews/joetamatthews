@@ -10,6 +10,7 @@ I love to learn new technologies. Using the tools & languages I have learned, I 
 
 ## 🌱 I'm currently learning
 - React
+- Python
 
 ## 💼 Technical Skills
 ###### Languages & Frameworks
