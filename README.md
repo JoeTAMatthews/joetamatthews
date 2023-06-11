@@ -5,12 +5,11 @@
 I love to learn new technologies. Using the tools & languages I have learned, I aim to solve business problems when creating new projects.
 
 ## 🔭 I'm currently working on
-- Plugin E-Commerce [Website](https://www.jtm-network.com) - [Github Project](https://github.com/JTM-Network/minecraft-service)
-
+...
 
 ## 🌱 I'm currently learning
-- React
-- Python
+- R 
+- C++
 
 ## 💼 Technical Skills
 ###### Languages & Frameworks
